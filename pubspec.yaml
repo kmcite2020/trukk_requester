@@ -12,7 +12,9 @@ dependencies:
          path: ../trukk_driver
   trukk_manager:
          path: ../trukk_manager
-  
+  flutter_map: ^5.0.0
+  latlong2:
+  flutter_osm_plugin:
   flutter_windowmanager:
   equatable:
   flex_color_scheme:
